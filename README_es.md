@@ -2,11 +2,9 @@
 <table>
   <tr>
     <td>
-      <!-- Imagen -->
       <img src="https://github.com/user-attachments/assets/863308c0-0da1-4908-93d3-6c4b6df4f804" alt="Santiago" width="150"/>
     </td>
     <td style="padding-left:20px; vertical-align:middle;">
-      <!-- Texto -->
       <h1>😎 Santiago HS</h1>
       <p>💻 Desarrollador Full-Stack | 🎨 Diseñador Digital</p>
       <p><em>Combinando creatividad y lógica para construir soluciones digitales funcionales, optimizadas y visualmente atractivas.</em></p>
@@ -15,10 +13,11 @@
 </table>
 <hr>
 
-<table align="right">
-<tr><td><a href="./README.md">English</a></td></tr>
-<tr><td><a href="./README_es.md">Español</a></td></tr>
-</table>
+
+<!-- Badge para ir a la versión en inglés -->
+<p align="right">
+  [![English](https://img.shields.io/badge/English-README-blue?style=for-the-badge&logo=github)](README.md)
+</p>
 
 ---
 ## 🧠 Sobre mí
