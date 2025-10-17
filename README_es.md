@@ -14,12 +14,8 @@
 <hr>
 
 
-<!-- Badge para ir a la versión en inglés -->
-<p align="right">
-  [![English](https://img.shields.io/badge/English-README-blue?style=for-the-badge&logo=github)](README.md)
-</p>
+<table align="right"><tr><td><a href="./README_es.md">Español</a></tr></td><tr><td><a href="./README.md">Ingles</a></tr></td></table>
 
----
 ## 🧠 Sobre mí
 Soy un **desarrollador y diseñador** enfocado en:
 
