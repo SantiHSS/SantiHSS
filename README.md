@@ -17,12 +17,10 @@
 <hr>
 
 
-<!-- Badge para ir a la versión en inglés -->
-<p align="right">
-  [![English](https://img.shields.io/badge/English-README-blue?style=for-the-badge&logo=github)](README.md) <br>
-  [![Español](https://img.shields.io/badge/Español-README-green?style=for-the-badge&logo=github)](README_es.md)
-</p>
-
+<table align="right">
+<tr><td><a href="./README.md">English</a></tr></td>
+<tr><td><a href="./README_es.md">Spanish</a></tr></td>
+</table>
 
 ---
 ## 🧠 About Me
