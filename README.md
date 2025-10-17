@@ -23,7 +23,7 @@
 </table>
 
 ---
-
+## 🧠 About Me
 I’m a **developer and designer** focused on:
 
 - 🌐 Front-end & back-end web development  
