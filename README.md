@@ -19,9 +19,9 @@
 
 <!-- Badge para ir a la versión en inglés -->
 <p align="right">
+  [![English](https://img.shields.io/badge/English-README-blue?style=for-the-badge&logo=github)](README.md) <br>
   [![Español](https://img.shields.io/badge/Español-README-green?style=for-the-badge&logo=github)](README_es.md)
 </p>
-
 
 
 ---
