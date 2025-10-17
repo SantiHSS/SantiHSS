@@ -1,5 +1,4 @@
 <!-- Banner -->
-<!-- Banner con imagen a la izquierda y texto a la derecha -->
 <table>
   <tr>
     <td>
@@ -16,13 +15,8 @@
 </table>
 <hr>
 
+<table align="right"><tr><td><a href="./README_es.md">English</a></tr></td><tr><td><a href="./README.md">Spanish</a></tr></td></table>
 
-<table align="right">
-<tr><td><a href="./README.md">English</a></tr></td>
-<tr><td><a href="./README_es.md">Spanish</a></tr></td>
-</table>
-
----
 ## 🧠 About Me
 I’m a **developer and designer** focused on:
 
